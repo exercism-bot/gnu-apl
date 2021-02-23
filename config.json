@@ -9,7 +9,7 @@
     "representer": false,
     "analyzer": false
   },
-  "blurb": "",
+  "blurb": "GNU APL",
   "version": 3,
   "online_editor": {
     "indent_style": "space",
@@ -111,5 +111,5 @@
   },
   "concepts": [],
   "key_features": [],
-  "tags": []
+  "tags": ["execution_mode/interpreted"]
 }
